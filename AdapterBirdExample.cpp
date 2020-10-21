@@ -71,5 +71,4 @@ int main() {
 	// toy duck behaving like a bird 
 	cout << "BirdAdapter...\n"; 
 	birdAdapter->squeak(); 
-} 
-
+}
